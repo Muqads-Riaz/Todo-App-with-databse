@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    box-shadow: 10px 10px 20px lightgrey;
+}
